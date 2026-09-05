@@ -27,7 +27,7 @@ const Collection = () => {
             </p>
         </div>
         </div>
-      {/*sub catagory filter*/}
+      {/*sub catagory filter */}
 
     </div>
     </div>
